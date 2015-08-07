@@ -1,0 +1,29 @@
+/*
+	CSS from strach
+	By : Bagus Anantavijaya
+	Copyright 2015
+
+*/
+
+
+.wrapper .leftSection img {
+	float: left;
+	margin: 12px 5px 0 5px;
+}
+
+.wrapper .leftSection p {
+	margin-left: 10 px;
+}
+
+.wrapper .leftSection h3 {
+	font-family: Segoe UI;
+}
+
+.wrapper .leftSection ul li a {
+	font-family: Segoe UI;
+	color: red;
+}
+
+.wrapper .leftSection ul li a:hover {
+	color: orange;
+}

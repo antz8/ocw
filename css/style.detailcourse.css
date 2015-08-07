@@ -1,0 +1,54 @@
+.wr, h1, .download {
+	font-family: Segoe UI;
+}
+
+.wr {
+	width: 500px;
+	height: 430px;
+	//background-color: blue;
+}
+
+.wr .wrLeft {
+	float: left;
+	width: 300px;
+	margin: 0;
+	padding: 0;
+	//background-color: yellow;
+}
+
+.wr .wrLeft .wrImg {
+	width: 300px;
+	height: 300px;
+	background-color: #a73235;
+}
+
+.wr .wrLeft p {
+	color: #868686;
+}
+
+.wr .wrRight {
+	margin-top: 0;
+	padding-left: 12px;
+	//background-color: green;
+	float: left;
+}
+
+.wr .wrRight a {
+	color: #000;
+}
+
+.wr .wrRight a:hover {
+	color: #868686;
+}
+
+.download {
+	float: right
+}
+
+.download a {
+	color: red;
+}
+
+.download a:hover {
+	color: orange;
+}

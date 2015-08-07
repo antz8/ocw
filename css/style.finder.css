@@ -1,0 +1,54 @@
+.browse {
+	width: 640px;
+	height: 320px;
+	//background-color: green;
+}
+
+.browse .browser1, .browser2 {
+	font-family: Segoe UI;
+	width: 300px;
+	height: 300px;
+	border: 1px solid #acacac;
+	overflow: scroll;
+}
+
+.browse .browser1 {
+	float: left;
+}
+
+.browse .browser1 .judul1, .browse .browser2 .judul2 {
+	border-bottom: 1px solid #acacac;
+	text-indent: 4px;
+}
+
+
+
+tr:nth-child(even) {
+	background-color: #e3e3e3;
+}
+
+.browse .browser2 {
+	float: right;
+}
+
+h4, #filter, #listres {
+	font-family: Segoe UI;
+}
+
+#filter tr:nth-child(even) {
+	background-color: #fff;
+}
+
+.ress {
+	width: 780px;
+	border-bottom: 1px solid #333;
+	margin-bottom: 15px;
+}
+
+.ress p.title {
+	margin: 0 320px -11px 320px;
+	padding: 0 35px;
+	font-family: Segoe UI;
+	font-size: 1.5em;
+	background-color: #fff;
+}

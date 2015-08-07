@@ -1,0 +1,27 @@
+/*
+	CSS from strach
+	By : Bagus Anantavijaya
+	Copyright 2015
+
+*/
+
+.wrapper {
+	width: 940px;
+	margin: 0 auto;
+	height: auto;
+	//background-color: #fff;
+}
+
+.wrapper .leftSection {
+	width: 780px;
+	height: auto;
+	padding: 10px 10px 10px 10px;
+	margin: 0;
+	background-color: #fff;
+}
+
+.wrapper .rightSection {
+	width: 160px;
+	height: 200px;
+	float: left;
+}
